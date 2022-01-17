@@ -63,6 +63,7 @@ In this activity we leveraged a vareity of tools to train and evaluate outputs f
 
 ## Summary / Recommendation
 The end goal is to identify a model that could be useful in assesing credit risk.
+
 The Ensemble model brings the most benefits to the analysis than any other model.  With an accuracy of 92.5% it predicts best the high risk items.  SMOTEEN and Naive do a decent job of the same.  The low precision of Ensemble points out that we the organization may miss out on potentially good loans, but that is a generally accepted risk with modeling.
 
-I would recommend teh Easy Ensemble model as the best approach, with perhaps a secondary review (even on a sample basis) of declined credit applications in an attempt to reduce leaving good business on the table.
+I would recommend the Easy Ensemble model as the best approach, with perhaps a secondary review (even on a sample basis) of declined credit applications in an attempt to reduce leaving good business on the table.
